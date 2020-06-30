@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fitness Calculator</string>
+    <string name="bmiWeight">Enter your Weight</string>
+
+    <string name="bmiHeight">Enter your Height</string>
+    <string name="bmiCalculate">Find BMI</string>
+
+    <string name="bmiover">Over Weight</string>
+    <string name="bmiNormal">Normal Weight</string>
+    <string name="bmiVSUnder">Very severely Under Weight</string>
+    <string name="bmiSUnder">Severely Under Weight</string>
+
+    <string name="bmiUnder">Under Weight</string>
+    <string name="Mobesity">Moderately obese</string>
+
+    <string name="Sobesity">Severely obese</string>
+    <string name="VSobesity">Very severely obese</string>
+
+    <string name="CM">Cm</string>
+    <string name="KG">Kg</string>
+</resources>
